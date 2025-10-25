@@ -9,7 +9,7 @@ Além disso, inclui formulários interativos e validados, que permitem o cadastr
 
 Acesse o site
 
-🔗 Versão publicada: https://glauberdias-tech.github.io/Atividade1_ong_impacta_mais
+🔗 Versão publicada: https://glauberdias-tech.github.io/Atividade2_ong_impacta_mais
 
 Páginas do Projeto
 
